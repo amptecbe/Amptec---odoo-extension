@@ -2,7 +2,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
   <app appid="bpbdkiblplhlglaomgjhlaoahmebcmdc">
-    <updatecheck codebase="https://raw.githubusercontent.com/amptecbe/Amptec---odoo-extension/main/crx/Odoo-Chatter-Utilities-Amptec.crx"
+    <updatecheck codebase="https://github.com/amptecbe/Amptec---odoo-extension/raw/refs/heads/main/crx/Odoo-Chatter-Utilities-Amptec.crx"
                  version="1.6.2" />
   </app>
 </gupdate>
